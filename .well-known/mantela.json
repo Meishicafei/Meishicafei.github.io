@@ -1,0 +1,58 @@
+{
+    "$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
+    "version": "0.0.0",
+    "aboutMe": {
+        "identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
+        "name": "MCeTeLO",
+        "preferredPrefix": [
+            "917",
+            "315"
+        ]
+    },
+    "extensions": [
+        {
+            "extension": "001",
+            "identifier": "OHIZWDA3",
+            "name": "MeishiDesk",
+            "type": "dialphone"
+        },
+        {
+            "extension": "002",
+            "identifier": "KVJSHZHU",
+            "name": "Windows11",
+            "type": "phone"
+        },
+        {
+            "extension": "221",
+            "identifier": "HN2PX4TZ",
+            "name": "Meishi's iPhone",
+            "type": "smartphone"
+        }
+    ],
+    "providers": [
+        {
+            "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+            "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
+            "name": "MIKANETEL",
+            "prefix": "510"
+        },
+        {
+            "identifier": "5bbdd9ae-4d41-420c-80df-eba486495b12",
+            "mantela": "https://108jiminy.jp/phone/jiminypublicmantela.json",
+            "name": "Jiminy Public",
+            "prefix": "108"
+        },
+        {
+            "identifier": "153048c5-db33-4e00-ad49-694762555d5c",
+            "mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json",
+            "name": "Jiminy Local",
+            "prefix": "119"
+        },
+        {
+            "identifier": "81c99427-4a30-4364-8b17-fed97f347439",
+            "mantela": "https://sgchsgch.net/.well-known/mantela.json",
+            "name": "Sgch",
+            "prefix": "2048"
+        }
+    ]
+}
