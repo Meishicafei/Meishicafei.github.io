@@ -11,13 +11,13 @@
     },
     "extensions": [
         {
-            "extension": "001",
+            "extension": "101",
             "identifier": "OHIZWDA3",
             "name": "MeishiDesk",
             "type": "dialphone"
         },
         {
-            "extension": "002",
+            "extension": "102",
             "identifier": "KVJSHZHU",
             "name": "Windows11",
             "type": "phone"
