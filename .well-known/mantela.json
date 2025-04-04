@@ -31,6 +31,12 @@
     ],
     "providers": [
         {
+            "identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
+            "mantela": "https://meishicafei.github.io/.well-known/mantela.json",
+            "name": "MCeTeLO",
+            "prefix": "0"
+        },
+        {
             "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
             "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
             "name": "MIKANETEL",
