@@ -59,6 +59,12 @@
             "mantela": "https://telephony.jm8krg.net/.well-known/mantela.json",
             "name": "macaron",
             "prefix": "798"
+        },
+         {
+            "identifier": "4a96b422-c07e-7b84-82aa-cd665e1e69a8",
+            "mantela": "https://login.tailscale.com/admin/invite/XHA1hv2rbEh",
+            "name": "yazaki",
+            "prefix": "808"
         }
     ]
 }
