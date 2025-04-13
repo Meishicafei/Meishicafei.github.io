@@ -39,6 +39,12 @@
             "identifier": "ME3HZ2",
             "name": "実態が存在しない番号1",
             "type": "unused"
+        },
+        {
+            "extension": "1192",
+            "identifier": "MEC21FS",
+            "name": "会議室",
+            "type": "conference"
         }
     ],
     "providers": [
