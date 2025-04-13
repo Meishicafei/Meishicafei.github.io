@@ -33,6 +33,12 @@
             "identifier": "6PWVWXDZ",
             "name": "Blue Limbo",
             "type": "music"
+        },
+        {
+            "extension": "000",
+            "identifier": "ME3HZ2",
+            "name": "実態が存在しない番号1",
+            "type": "unused"
         }
     ],
     "providers": [
