@@ -91,6 +91,12 @@
             "prefix": "808"
         },
          {
+            "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+            "mantela": "https://kimkim0106.net/.well-known/mantela.json",
+            "name": "kimkim0106",
+            "prefix": "106"
+        },
+         {
             "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
             "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json",
             "name": "yude",
