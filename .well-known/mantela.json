@@ -70,7 +70,7 @@
             "identifier": "153048c5-db33-4e00-ad49-694762555d5c",
             "mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json",
             "name": "Jiminy Local",
-            "prefix": "119"
+            "prefix": "0119"
         },
         {
             "identifier": "81c99427-4a30-4364-8b17-fed97f347439",
@@ -103,8 +103,8 @@
             "prefix": "390"
         },
         {
-            "identifier": "XXX:yoshina",
-            "mantela": " https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json",
+            "identifier": "db30e15e-b101-4069-a406-9af3fdfe5c2e",
+            "mantela": "https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json",
             "name": "yoshina",
             "prefix": "0447"
         },
