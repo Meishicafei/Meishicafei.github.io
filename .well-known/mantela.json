@@ -12,37 +12,37 @@
     "extensions": [
         {
             "extension": "101",
-            "identifier": "OHIZWDA3",
+            "identifier": "MPD01",
             "name": "MeishiDesk",
             "type": "dialphone"
         },
         {
             "extension": "102",
-            "identifier": "KVJSHZHU",
+            "identifier": "MC01W11",
             "name": "Windows11",
             "type": "phone"
         },
         {
             "extension": "221",
-            "identifier": "HN2PX4TZ",
+            "identifier": "MCAi1101",
             "name": "Meishi's iPhone",
             "type": "smartphone"
         },
         {
             "extension": "1954",
-            "identifier": "6PWVWXDZ",
+            "identifier": "MAudT",
             "name": "Blue Limbo",
             "type": "music"
         },
         {
             "extension": "000",
-            "identifier": "ME3HZ2",
+            "identifier": "N/A",
             "name": "実態が存在しない番号1",
             "type": "unused"
         },
         {
             "extension": "1192",
-            "identifier": "MEC21FS",
+            "identifier": "MCan01",
             "name": "会議室",
             "type": "conference"
         }
