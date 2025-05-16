@@ -47,6 +47,12 @@
             "type": "conference"
         },
         {
+            "extension": "x",
+            "identifier": "MT01",
+            "name": "黒電話テスト番号",
+            "type": "unused"
+        },
+        {
             "name": "美式珈琲直通回線",
             "extension": "2009917",
             "type": "main",
