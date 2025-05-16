@@ -47,15 +47,15 @@
             "type": "conference"
         },
         {
-      "name": "美式珈琲直通回線",
-      "extension": "2009917",
-      "type": "main",
-      "identifier": "MDirect1",
-      "transferTo": [
-        "MPD01",
-        "MC01W11",
-        "MCAi12m01"
-      ]
+            "name": "美式珈琲直通回線",
+            "extension": "2009917",
+            "type": "main",
+            "identifier": "MDirect1",
+            "transferTo": [
+                "MPD01",
+                "MC01W11",
+                "MCAi12m01"
+            ]
     }
     ],
     "providers": [
