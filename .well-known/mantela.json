@@ -24,14 +24,14 @@
         },
         {
             "extension": "221",
-            "identifier": "MCAi1101",
+            "identifier": "MCAi12m01",
             "name": "Meishi's iPhone",
             "type": "smartphone"
         },
         {
             "extension": "1954",
             "identifier": "MAudT",
-            "name": "Blue Limbo",
+            "name": "アナウンス",
             "type": "music"
         },
         {
@@ -45,6 +45,16 @@
             "identifier": "MCan01",
             "name": "会議室",
             "type": "conference"
+        },
+        {
+            "extension": "2009917",
+            "identifier": "MDirectMeishicafei",
+            "name": "美式直通回線",
+            "type": "main"
+            "transferTo":[
+                "MCAi12m01"
+                "MPD01"
+                "MC01W11"
         }
     ],
     "providers": [
