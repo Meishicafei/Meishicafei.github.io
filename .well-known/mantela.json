@@ -30,9 +30,9 @@
         },
         {
             "extension": "1954",
-            "identifier": "MAudT",
+            "identifier": "MAudInfo",
             "name": "アナウンス",
-            "type": "music"
+            "type": "information"
         },
         {
             "extension": "000",
