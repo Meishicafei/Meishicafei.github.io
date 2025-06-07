@@ -7,11 +7,6 @@
         "preferredPrefix": [
             "917",
             "315"
-        ],
-        "geolocationCoordinates": [
-        "latitude": 26,
-        "longitude": 127,
-        "accuracy" : 10000
         ]
     },
     "extensions": [
