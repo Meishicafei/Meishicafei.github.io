@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+@supports (-webkit-touch-callout: none){
+    body{
+        height: -webkit-fill-available;
+    }
+}
+main{
+    flex-grow: 1;
+    background: center / cover no-repeat url('../img/top.webp');
+    cursor: grab;
+}
+@media (orientation: portrait){
+    main{
+        background: top / cover no-repeat url('../img/top_for_smartphone.webp');
+    }
+}
