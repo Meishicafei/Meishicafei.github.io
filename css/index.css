@@ -20,7 +20,7 @@ main{
 }
 @media (orientation: portrait){
     main{
-        background: top / cover no-repeat url('../img/top2.webp');
+        background: top / cover no-repeat url('../img/top2.1.webp');
     }
 }
 footer{
@@ -37,3 +37,4 @@ h3{
     color: azure;
     font-family: Arial;
 }
+
