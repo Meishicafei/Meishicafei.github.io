@@ -3,7 +3,7 @@ body{
     margin: auto;
     display: flex;
     flex-direction: column;
-    background-color: #002a4d;
+    background-color: #5f95c2;
 }
 @supports (-webkit-touch-callout: none){
     body{
@@ -36,4 +36,20 @@ h2{
 h3{
     color: azure;
     font-family: Arial;
+}
+j{
+    color: #1e2ba3;
+    font-size: large;
+    font-weight: bold;
+}
+@keyframes blinking {
+   0% {
+   opacity: 0;
+   }
+   100% {
+   opacity: 1;
+   }
+}
+.blink {
+   animation: blinking 1s ease-in-out infinite alternate;
 }
