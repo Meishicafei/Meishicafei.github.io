@@ -20,7 +20,7 @@ main{
 }
 @media (orientation: portrait){
     main{
-        background: top / cover no-repeat url('../img/top_for_smartphone.webp');
+        background: top / cover no-repeat url('../img/top2.webp');
     }
 }
 footer{
