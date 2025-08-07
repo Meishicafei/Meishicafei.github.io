@@ -3,11 +3,15 @@ body{
     margin: auto;
     display: flex;
     flex-direction: column;
+    background-color: #002a4d;
 }
 @supports (-webkit-touch-callout: none){
     body{
         height: -webkit-fill-available;
     }
+}
+header{
+    text-align: center;
 }
 main{
     flex-grow: 1;
@@ -18,4 +22,13 @@ main{
     main{
         background: top / cover no-repeat url('../img/top_for_smartphone.webp');
     }
+}
+footer{
+    text-align: center;
+}
+h2{
+    color: azure;
+}
+h3{
+    color: azure;
 }
